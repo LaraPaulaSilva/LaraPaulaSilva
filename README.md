@@ -39,6 +39,5 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" />
 </p>
 
-![snake gif](https://raw.githubusercontent.com/LaraPaulaSilva/snk/output/github-contribution-grid-snake.svg)
-
+![snake animation] (https://github.com/LaraPaulaSilva/LaraPaulaSilva/blog/output/github-contribution-grid-snake.svg)
 
