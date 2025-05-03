@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou a Lara Paula</h1>
+<h1 align="center"> Olá! Eu sou a Lara!</h1>
 <p align="center">Desenvolvedora em construção | ADS - PUC Minas | Foco, estratégia e código</p>
 
 ---
