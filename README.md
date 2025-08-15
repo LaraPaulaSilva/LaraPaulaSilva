@@ -1,46 +1,37 @@
-<h1 align="center"> Olá! Eu sou a Lara!</h1>
-<p align="center">Desenvolvedora em construção | ADS - PUC Minas | Foco, estratégia e código</p>
+## Olá, eu sou a Lara Paula!
+
+### Desenvolvimento de software é automatizar a resolução de problemas! 
 
 ---
 
-- 🛠️ Atualmente trabalhando nos meus projetos de tecnologia e evoluindo como desenvolvedora  
-- 📚 Estudando **Análise e Desenvolvimento de Sistemas (PUC Minas)**  
+#### Tecnologias e Ferramentas
 
-
-> _"A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs_
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larapaulasilva&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larapaulasilva&layout=compact&theme=radical"/>
-</div>
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div style="display: flex; gap: 10px;">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+</p>
 
 ---
 
-### ✨ Um toque visual
+#### Estatísticas
+![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaraPaulaSilva&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraPaulaSilva&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" />
-</p>
+---
+
+#### 🐍 Jogo da Cobrinha
+![Snake animation](https://github.com/LaraPaulaSilva/LaraPaulaSilva/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+ **Contato:**
+ 
+ [LinkedIn](https://www.linkedin.com/in/lara-paula/) • [Email](mailto:larapslv11@gmail.com)
+
+---
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaraPaulaSilva/LaraPaulaSilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaraPaulaSilva/LaraPaulaSilva/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaraPaulaSilva/LaraPaulaSilva/output/github-contribution-grid-snake.svg">
-</picture>
