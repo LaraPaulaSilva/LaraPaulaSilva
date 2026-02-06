@@ -17,12 +17,6 @@
 
 ---
 
-#### Estatísticas
-![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaraPaulaSilva&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraPaulaSilva&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 #### 🐍 Jogo da Cobrinha
 ![Snake animation](https://github.com/LaraPaulaSilva/LaraPaulaSilva/blob/output/github-contribution-grid-snake.svg)
 
